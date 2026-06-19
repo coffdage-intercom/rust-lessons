@@ -1,4 +1,4 @@
-use sts::process::Command;
+use std::process::Command;
 
 fn main() {
     let commands = vec![
