@@ -18,9 +18,9 @@ fn main() {
     let s2 = &s1.trim();
 
     println!("Your input: {}", s2);
-    println!("Lenght of '{}' is {} characters.", s2, len);
+    println!("Length of '{}' is {} characters.", s2, len);
 }
 
-fn lenght(s: &String) -> usize {
-    s.len() - 1
+fn lenght(s: &Str) -> usize {
+    s.trim().len()
 }
