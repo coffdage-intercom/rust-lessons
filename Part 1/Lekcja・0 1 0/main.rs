@@ -6,10 +6,10 @@ fn main() {
       // use std::fs::File;
     File::create("test.txt").unwrap();
       // use std::fs;
-    fs::remove_file("test.txt").unwrap;
+    fs::remove_file("test.txt").unwrap();
     // Folders
       // use std::fs;
-    fs::create_dir("TEST").unwrap;
+    fs::create_dir("TEST").unwrap();
       // use std::fs;
-    fs::remove_dir("TEST").unwrap;
+    fs::remove_dir("TEST").unwrap();
 }
