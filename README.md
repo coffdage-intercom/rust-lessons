@@ -1,13 +1,13 @@
 # README
 
 ### Author
-  > Coffdage
-  > NeiTi4Dot
+   _/ Coffdage
+   _/ NeiTi4Dot
 
 ### Repository
-  > Name: rust-lessons
-  > Type: #Lessons #Education #HomeMade #Rust #AlaKurs
-  > Description: You can find here some RUST lessons, my codes for learning and etc.
+   _/ Name: rust-lessons
+   _/ Type: #Lessons #Education #HomeMade #Rust #AlaKurs
+   _/ Description: You can find here some RUST lessons, my codes for learning and etc.
 
 ### Links:
    #Youtube:
