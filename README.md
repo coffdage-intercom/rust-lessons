@@ -14,20 +14,35 @@
 
 ### Links:
    #Youtube:
+
     $ Main (mój)
+
     ? https://www.youtube.com/@coffdage
+
     $ Someone (kogoś)
+
     ? https://www.youtube.com/@Enduro_Kocur
+
   #Github:
+
     ? https://github.com/NeiTi4Dot 
+
     ? https://github.com/coffdage-intercom
+
     ? https://github.com/coffdage
+
   #Reddit:
+
     ? https://www.reddit.com/u/KarsonDBS
+
   #Discord:
+
     $ owner: Coffdage (NeiTi4Dot)
+
     ? https://discord.gg/Fu5HmcG9Us
+
     $ owner: kotdashy (Enduro_Kocur)
+
     ? https://discord.gg/polish-community-863151082779312128
 
 ### About me:
