@@ -2,11 +2,14 @@
 
 ### Author
    _/ Coffdage
+
    _/ NeiTi4Dot
 
 ### Repository
    _/ Name: rust-lessons
+
    _/ Type: #Lessons #Education #HomeMade #Rust #AlaKurs
+
    _/ Description: You can find here some RUST lessons, my codes for learning and etc.
 
 ### Links:
